@@ -34,7 +34,7 @@ PLATFORMS
 DEPENDENCIES
   json (~> 2.3, >= 2.3.0)
   rest-client (~> 1.8.0)
-  sinatra (~> 2.2.3)
+  sinatra (~> 2.2.4)
 
 BUNDLED WITH
    1.17.3
